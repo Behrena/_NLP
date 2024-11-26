@@ -1,0 +1,14 @@
+transformers 
+sentencepiece
+sacrebleu
+--upgrade accelerate
+transformers  
+transformers accelerate
+datasets
+pandas
+nltk
+tqdm
+torch
+matplotlib
+evaluate
+protobuf # platform-neutral extensible mechanisms for serializing structured data.
