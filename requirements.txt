@@ -12,3 +12,4 @@ torch
 matplotlib
 evaluate
 protobuf # platform-neutral extensible mechanisms for serializing structured data.
+rouge_score
